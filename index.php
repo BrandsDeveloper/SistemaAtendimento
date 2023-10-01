@@ -1,9 +1,9 @@
 <?php
 // Faça a conexão com o banco de dados
-$servername = "35.198.52.197";
-$username = "root";
-$password = "1234";
-$dbname = "pizzaria";
+$servername = "host";
+$username = "user";
+$password = "pass";
+$dbname = "banco";
 
 // Conexão com o banco de dados
 $conn = new mysqli($servername, $username, $password, $dbname);
