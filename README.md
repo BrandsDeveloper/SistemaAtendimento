@@ -31,7 +31,7 @@ Esse processo estruturado e documentado permite uma previsão mais precisa do de
 * Após finalizar os pedidos armazenar em um banco de dados.
 
 ## Instalação
-
+Em breve com mais informações...
 
 ## Contato
 Para sugestões, dúvidas ou contribuições, entre em contato conosco pelo e-mail: lucasbrandao392@gmail.com.
