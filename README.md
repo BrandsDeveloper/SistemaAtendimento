@@ -41,12 +41,9 @@ Este projeto é licenciado sob a [Licença Apache 2.0]()
 
 <br>
 
-### Veja abaixo imagens do Aplicativo
+### Veja abaixo a imagem do Sistema
 
-<img alt="" src="" width="190">
-
-
-Acesse o Sistema, [clicando aqui]()
+<img alt="" src="https://github.com/BrandsDeveloper/SistemaAtendimento/blob/main/sistema.png">
 
 ### Conteúdo Complementar
 Visualize o [Cardapio online](https://github.com/BrandsDeveloper/CardapioOnline)
